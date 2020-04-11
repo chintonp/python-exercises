@@ -1,6 +1,6 @@
 '''
 
-Kocj Snowflake - Chapater 4 Example 2
+Koch Snowflake - Chapater 4 Example 2
 
 '''
 
