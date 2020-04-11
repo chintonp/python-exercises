@@ -5,8 +5,8 @@ Chapter 4 - Example 1
 
 import turtle
 
-WIDTH = 640
-HEIGHT = 360
+#WIDTH = 640
+#HEIGHT = 360
 
 def setup_window():
     # Set up the window
